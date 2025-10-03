@@ -1,0 +1,6 @@
+.container { max-width:800px; margin:80px auto; padding:24px; text-align:center; background:#fffef9; border:2px solid #e4d7c5; border-radius:12px; box-shadow:0 6px 14px rgba(0,0,0,0.08);}
+.title { font-family: Georgia, serif; font-size:2rem; color:#2b5d34; margin-bottom:10px;}
+.subtitle { color:#6d4c41; margin-bottom:20px;}
+.links { display:flex; justify-content:center; gap:12px;}
+.link { padding:10px 20px; background:#2b5d34; color:white; border-radius:8px; text-decoration:none; font-weight:700;}
+.link:hover { background:#1b4124; }

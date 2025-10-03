@@ -1,0 +1,60 @@
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.progressGrid {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.progressCard {
+  background: #f5f5f5;
+  padding: 1.5rem;
+  border-radius: 12px;
+  min-width: 120px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.progressCard h2 {
+  font-size: 2rem;
+  color: #4caf50;
+  margin: 0;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #4caf50;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.link:hover {
+  background: #45a049;
+}

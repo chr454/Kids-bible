@@ -1,0 +1,54 @@
+.container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.title {
+  font-family: "Georgia", serif;
+  font-size: 2.2rem;
+  text-align: center;
+  color: #2b5d34;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  text-align: center;
+  font-style: italic;
+  color: #5a4634;
+  margin-bottom: 2rem;
+}
+
+.lessonCard {
+  background: #fffaf3;
+  border: 2px solid #e2d5c3;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+
+.lessonTitle {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #b43c2d;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.lessonContent {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #2d2d2d;
+}
+
+.paragraph {
+  margin-bottom: 1rem;
+}
+
+.error {
+  text-align: center;
+  color: #b43c2d;
+  font-weight: bold;
+  margin-top: 2rem;
+}
